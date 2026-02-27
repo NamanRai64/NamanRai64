@@ -15,9 +15,11 @@
 ---
 
 ## 🕹️ Play a Game on my Profile!
-<p align="center">
-  <img src="https://github-user-contribution-grid-snake.vercel.app/api?github=NamanRai64&outputs=svg&color_snake=%23235ad3&color_dots=%23ebedf0,%239be9a8,%2340c463,%2330a14e,%23216e39" alt="Snake Game Contribution Map" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NamanRai64/NamanRai64/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NamanRai64/NamanRai64/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NamanRai64/NamanRai64/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
