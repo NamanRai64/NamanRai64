@@ -1,151 +1,121 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Naman+Rai+%F0%9F%91%8B;Full-Stack+Developer;Java+%2B+Spring+Boot+%E2%9A%99%EF%B8%8F;React.js+Enthusiast+%F0%9F%8E%A8;DSA+Problem+Solver+%F0%9F%A7%A9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Naman+Rai+%F0%9F%91%8B;Full-Stack+Developer;Java+%2B+Spring+Boot+%E2%9A%99%EF%B8%8F;React.js+Enthusiast+%F0%9F%8E%A8;9.65+CGPA+%40+SRM+%F0%9F%8E%93)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling" width="100%"/>
+*Full-stack developer who builds scalable systems*
+
+<p align="center"> 
+  <img src="https://profile-counter.deno.dev/NamanRai64/count.svg"/>
+</p>
 
 </div>
 
 ---
 
-<table align="center">
-<tr>
-<td width="55%">
-
 ### 👨‍💻 About Me
+I'm a motivated **2nd-year B.Tech CS student** at **SRM University** with a **9.65 CGPA**[cite: 5, 9, 10]. I specialize in bridging the gap between robust backend logic and fluid user interfaces.
 
-```yaml
-name:       Naman Rai
-university: SRM University
-year:       2nd Year B.Tech CS
-cgpa:       9.7 / 10.0
-focus:      Full-Stack Development
-backend:    Java · Spring Boot · REST APIs
-frontend:   React.js · TypeScript
-devops:     Docker · Kubernetes
-passion:    Clean code & scalable systems
-```
+- 🚀 **Building**: Full-stack applications with **Spring Boot** and **React**.
+- 🧩 **DSA**: **100+ problems** solved on LeetCode/HackerRank.
+- 🏛️ **Focus**: REST APIs, MVC systems, and Database Schema Design.
 
-</td>
-<td width="45%" align="center">
+---
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NamanRai64&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=f72585&text_color=e8eaf2" />
+<h3 align="left">Table of Tech</h3>
 
-</td>
-</tr>
+<table align="center">
+  <tr>
+    <th align="center">Languages</th>
+    <th align="center">Frontend</th>
+    <th align="center">Backend</th>
+    <th align="center">Databases</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,ts" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=spring,nodejs" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th align="center">DevOps</th>
+    <th align="center">Desktop</th>
+    <th align="center">Tools</th>
+    <th align="center">Version Control</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=tauri" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vscode,postman,maven,gradle" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
 
-<div align="center">
+<h3 align="left">Featured Projects</h3>
 
-## 🚀 Tech Stack
-
-**Backend**
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-**Languages**
-
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-</div>
-
----
-## 🚀 Featured Projects
-
-### 🏥 Hospital Management System
+#### 🏥 Hospital Management System
 > **A Comprehensive Healthcare Workflow Solution**
-```
-┌─────────────────────────────────────────────────────────┐
-│  🏥 Logic     →  Spring Boot & RESTful Services         │
-│  📊 Database  →  Relational Schema (MySQL/PostgreSQL)   │
-│  🧬 Data      →  Custom Dummy Data Generation Logic     │
-│                  (facilitates system testing)           │
-└─────────────────────────────────────────────────────────┘
-```
-| Layer | Technology | Purpose |
-|-------|-----------|---------|
-| **Backend** | Java / Spring Boot | Scalable business logic & REST APIs |
-| **Database** | MySQL / PostgreSQL | Relational data management & Schema design |
-| **Automation**| Java / Custom Scripts | High-quality mock data generation |
+- **Architecture**: Spring Boot RESTful API with MySQL/PostgreSQL integration.
+- **Innovation**: Custom dummy data generation logic for high-fidelity testing.
+
+#### 🎮 Animal Merge Quest
+> **Full-Stack Client-Server Web Game** 
+- **Security**: Server-side merge validation to prevent client-side cheating.
+- **Logic**: Robust recipe validation managed by a Spring Boot backend.
 
 ---
 
-### 🎮 Animal Merge Quest
-> [cite_start]**Full-Stack Client-Server Web Game** [cite: 18]
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  🔒 Backend    →  Spring Boot RESTful API               │
-│  🖱️  Frontend  →  Fluid drag-and-drop (Vanilla JS)      │
-│  🛡️  Security  →  Server-side merge validation          │
-│                   (prevents client-side cheating)       │
-└─────────────────────────────────────────────────────────┘
-```
-
-| Layer | Technology | Purpose |
-|-------|-----------|---------|
-| API | Spring Boot | Core merge logic & validation |
-| UI | Vanilla JavaScript | Drag-and-drop interactions |
-| Security | Server-side checks | Anti-cheat enforcement |
-
----
+<h3 align="left">Stats of Obsession</h3>
 
 <div align="center">
 
-## 📊 GitHub Stats
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NamanRai64&show_icons=true&theme=tokyonight&hide_border=true" align="center" alt="Stats" />
-
-<br/>
-
-## 📈 Language Stats
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NamanRai64&layout=compact&theme=tokyonight&hide_border=true" align="center" alt="Languages" />
-
-<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NamanRai64&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NamanRai64&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NamanRai64&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NamanRai64&theme=github_dark)
 
 </div>
 
 ---
 
-## 🏅 Achievements
-
-<div align="center">
-
-| 🎯 LeetCode / HackerRank | 📜 Java Certification | 📜 Data Structures Cert |
-|:---:|:---:|:---:|
-| **100+ Problems Solved** | **Certified** | **Certified** |
-
-</div>
-
----
-
-## 🕹️ Contribution Snake
-
+<h3 align="left">🕹️ My Contribution Snake</h3>
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NamanRai64/NamanRai64/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NamanRai64/NamanRai64/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NamanRai64/NamanRai64/output/github-contribution-grid-snake.svg">
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/NamanRai64/NamanRai64/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
 
@@ -157,7 +127,6 @@ passion:    Clean code & scalable systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naman-rai-478b71337)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namanrai1712@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/namanrai1712)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00F5D4?style=for-the-badge&logo=vercel&logoColor=black)](https://namanrai64.github.io)
 
 <br/>
