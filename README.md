@@ -29,9 +29,7 @@ passion:    Clean code & scalable systems
 </td>
 <td width="45%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NamanRai64&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=f72585&text_color=e8eaf2" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanRai64&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5d4&fire=f72585&currStreakLabel=00f5d4" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NamanRai64&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=f72585&text_color=e8eaf2" />
 
 </td>
 </tr>
@@ -73,10 +71,28 @@ passion:    Clean code & scalable systems
 </div>
 
 ---
+## 🚀 Featured Projects
 
-## 🎮 Featured Project — Animal Merge Quest
+### 🏥 Hospital Management System
+> **A Comprehensive Healthcare Workflow Solution**
+```
+┌─────────────────────────────────────────────────────────┐
+│  🏥 Logic     →  Spring Boot & RESTful Services         │
+│  📊 Database  →  Relational Schema (MySQL/PostgreSQL)   │
+│  🧬 Data      →  Custom Dummy Data Generation Logic     │
+│                  (facilitates system testing)           │
+└─────────────────────────────────────────────────────────┘
+```
+| Layer | Technology | Purpose |
+|-------|-----------|---------|
+| **Backend** | Java / Spring Boot | Scalable business logic & REST APIs |
+| **Database** | MySQL / PostgreSQL | Relational data management & Schema design |
+| **Automation**| Java / Custom Scripts | High-quality mock data generation |
 
-> **A Full-Stack Client-Server Web Game**
+---
+
+### 🎮 Animal Merge Quest
+> [cite_start]**Full-Stack Client-Server Web Game** [cite: 18]
 
 ```
 ┌─────────────────────────────────────────────────────────┐
@@ -97,17 +113,15 @@ passion:    Clean code & scalable systems
 
 <div align="center">
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NamanRai64&show_icons=true&theme=tokyonight&hide_border=true" align="center" alt="Stats" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NamanRai64&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f5d4&line=f72585&point=ffd60a" width="100%"/>
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=NamanRai64&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+<br/>
 
 ## 📈 Language Stats
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NamanRai64&layout=compact&theme=tokyonight&hide_border=true" align="center" alt="Languages" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanRai64&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=e8eaf2" />
+<br/>
 
 </div>
 
