@@ -2,11 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Naman+Rai+%F0%9F%91%8B;Full-Stack+Developer;Java+%2B+Spring+Boot+%E2%9A%99%EF%B8%8F;React.js+Enthusiast+%F0%9F%8E%A8;9.65+CGPA+%40+SRM+%F0%9F%8E%93)](https://git.io/typing-svg)
 
-*Full-stack developer who builds scalable systems*
-
-<p align="center"> 
-  <img src="https://profile-counter.deno.dev/NamanRai64/count.svg"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling" width="100%"/>
 
 </div>
 
