@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a motivated **2nd-year B.Tech CS student** at **SRM University** with a **9.65 CGPA**[cite: 5, 9, 10]. I specialize in bridging the gap between robust backend logic and fluid user interfaces.
+I'm a motivated **2nd-year B.Tech CS student** at **SRM University** with a **9.65 CGPA**. I specialize in bridging the gap between robust backend logic and fluid user interfaces.
 
 - 🚀 **Building**: Full-stack applications with **Spring Boot** and **React**.
 - 🧩 **DSA**: **100+ problems** solved on LeetCode/HackerRank.
