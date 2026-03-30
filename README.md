@@ -80,20 +80,6 @@ I'm a motivated **2nd-year B.Tech CS student** at **SRM University** with a **9.
 
 ---
 
-<h3 align="left">Featured Projects</h3>
-
-#### 🏥 Hospital Management System
-> **A Comprehensive Healthcare Workflow Solution**
-- **Architecture**: Spring Boot RESTful API with MySQL/PostgreSQL integration.
-- **Innovation**: Custom dummy data generation logic for high-fidelity testing.
-
-#### 🎮 Animal Merge Quest
-> **Full-Stack Client-Server Web Game** 
-- **Security**: Server-side merge validation to prevent client-side cheating.
-- **Logic**: Robust recipe validation managed by a Spring Boot backend.
-
----
-
 <h3 align="left">Stats of Obsession</h3>
 
 <div align="center">
